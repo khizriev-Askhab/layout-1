@@ -1,0 +1,614 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Libre Franklin';
+}
+
+body{
+	margin:0; 
+	font-family: 'Libre Franklin';
+}
+
+.main{
+
+height: 768px;
+max-width: 1440px;
+
+background :url(background.png), #F5D6AB;
+}
+
+.nav-one{
+color: #fff;
+font-size: 25px;
+font-weight: 700;
+padding:90px 0 0 165px ;
+display: flex;
+
+
+}
+
+.nav-two{
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+margin-left: 465px;
+
+}
+
+.nav-three{
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+margin-left: 60px;
+}
+
+.nav-four{
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+margin-left: 60px;
+
+}
+
+.nav-five{
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+margin-left: 60px;
+
+}
+
+.nav-six{
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+margin-left: 60px;
+
+}
+
+.center{
+font-weight: 400;
+font-size: 65px;
+line-height: 80px;
+margin-left: 165px;
+margin-top: 267px;
+
+color: #FFFFFF;
+}
+
+.center-one{
+font-size: 25px;
+margin: 25px 0 0 165px;
+	
+color: #FFFFFF;
+}
+
+.Latest{
+font-size: 20px;
+text-decoration-line: underline;
+margin: 105px 0 0 165px;
+	
+color: #FFFFFF;
+}
+
+.main-about{
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+margin: 95px 0 0 165px;
+
+color: #333333;
+}
+
+.main-texst{
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: justify;
+width: 1110px;
+height: 230px;
+margin: 75px 165px 0;
+max-width: 100%;
+
+
+
+color: #333333;
+}
+
+
+.fon{
+width: 1440px;
+height: 695px;
+margin-top:110px;
+
+background: #FFFAF2;
+}
+
+.skilss{	
+margin-left:165px ;
+font-weight: 700;
+font-size: 25px;
+padding-top: 95px;
+color: #333333;
+}
+
+.image{
+padding:85px 0 0 165px ;
+
+}
+
+.img-one{
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.profle{
+width: 60px;
+height: 25px;
+font-weight: 600;
+font-size: 18px;
+margin: 85px 0 0 125px;
+}
+
+.ux{
+width: 110px;
+height: 25px;
+font-weight: 600;
+font-size: 18px;
+margin:65px 0 0 125px ;
+}
+
+.tols{
+font-weight: 600;
+font-size: 18px;
+margin: 20px 0 0 125px;
+line-height: 25px;
+}
+
+.ul-ux{
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+margin: 85px 0 0 130px;
+}
+
+.box-one{
+display: flex;
+width: 446px;
+height: 24px;
+margin-top: 65px;
+
+}
+
+.oreng-1{
+width: 381px;
+height: 24px;
+
+background: #C66C49;}
+
+.oreng-2{
+width: 65px;
+height: 24px;
+
+background: #F5D6AB;
+}
+
+.pen{
+font-weight: 400;
+font-size: 18px;
+margin-top: 20px;
+}
+
+.box-two{
+display: flex;
+width: 446px;
+height: 24px;
+margin-top: 20px;
+}
+
+.oreng-3{
+width: 351px;
+height: 24px;
+
+background: #C66C49;
+}
+
+.oreng-4{
+width: 95px;
+height: 24px;
+
+background: #F5D6AB;
+}
+
+.adobe{
+font-weight: 400;
+font-size: 18px;
+margin-top: 20px;
+}
+
+.box-three{
+display: flex;
+width: 446px;
+height: 24px;
+margin-top: 20px;
+}
+
+.oreng-5{
+width: 286px;
+height: 24px;
+
+background: #C66C49;
+}
+
+.oreng-6{
+width: 160px;
+height: 24px;
+
+background: #F5D6AB;
+}
+
+.tols-2{
+font-weight: 400;
+font-size: 18px;
+margin-top: 20px;
+}
+
+.port{
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+margin: 95px 0 0 165px;
+}
+
+.Research{
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+margin: 85px 0 0 165px;
+
+}
+
+.lorem{
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+width: 349px;
+height: 137px;
+margin: 50px 0 0 165px;
+
+
+}
+	
+.ool{
+display: flex;
+
+
+}
+
+.big-box{
+width: 635px;
+height: 403px;
+display: flex;
+padding-top: 270px;
+padding-left: 125px;
+
+
+}
+
+
+.img-1{
+padding-top: 20px;
+
+}
+
+.box-2{
+padding-left: 30px;
+
+	
+}
+.img-2{
+padding-top: 20px;
+
+}
+
+.end{
+
+width: 1440px;
+height: 528px;
+background: #FFFAF2;
+margin-top: 405px;
+}
+
+.get{
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+padding: 95px 0 0 165px;
+}
+
+.Drib{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 50px 0 0 165px;
+}
+
+.Beh{
+padding: 15px 0 0 165px;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+}
+
+.Cod{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 15px 0 0 165px;
+}
+
+.Git{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 15px 0 0 165px;
+}
+
+.Med{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 15px 0 0 165px;
+}
+.code-1{
+	display: flex;
+;
+}
+.code-1{
+	
+}
+.code-2{
+	
+}
+.code-3{
+	
+}
+.Lin{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 173px 0 0 308px;
+}
+
+.Fac{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 15px 0 0 305px;
+}
+
+.Instagram{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 15px 0 0 305px;
+
+}
+
+.Twitter{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 15px 0 0 305px;
+
+}
+.end-1{
+	
+}
+.end-2{
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+padding: 173px 0 0 307px;
+
+}
+
+.end-3{
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+padding: 15px 0 0 307px;
+}
+@media only screen and (max-width:414px) {
+.main{
+width:415px;
+height: 275px;
+
+}
+.nav-one{
+padding: 35px 130px 0px 145px;
+font-size: 25px;
+
+}
+.center{
+	
+font-weight: 400;
+font-size: 20px;
+margin: 50px 0 0 115px;
+}
+.center-one{
+	margin:0 0 0 135px;
+	font-size: 13px;
+
+}
+.Latest{
+	font-size: 13px;
+	margin: 10px 0 0 175px;
+}
+.main-about{
+margin: 25px 0 0 170px;
+font-size: 25px;
+
+}
+.main-texst{
+	font-size: 12px;
+margin: auto;
+text-align: justify;
+}
+.fon{
+	width: 415px;
+	height: 750px;
+background: #FFFAF2;
+}
+.skilss{
+font-size: 25px;
+padding-top: 25px;
+}
+.image{
+padding: 15px 0 0 15px;
+}
+.profle{
+	margin: 20px 0 0 20px;
+	font-size: 12px;
+}
+
+	
+.ux{
+	font-size: 12px;
+	margin:30px 0 0 20px;}
+
+.tols{
+		font-size: 12px;
+		margin: 15px 0 0 20px;
+	}
+.ul-ux{
+	font-size: 12px;
+	margin:-285px 0 0 110px;
+}
+.box-one{
+width: 210px;
+height: 20px;
+margin: 35px 0 0 0;
+}
+.pen{
+	font-size: 12px;
+}
+.box-two{
+	width: 210px;
+height: 20px;
+margin: 15px 0 0 0;
+}
+.adobe{
+	font-size: 12px;
+}
+.box-three{
+	width: 210px;
+height: 20px;
+margin: 15px 0 0 0;	
+}
+.tols-2{
+	font-size: 12px;
+}
+.port{
+	margin:30px 0 0 135px;
+}
+.Research{
+	margin:25px 0 0 135px;
+}
+.lorem{
+	font-size: 12px;
+	margin:15px 0 0 10px;
+	text-align: center;
+}
+.big-box{
+	width: 370px;
+height: 195px;
+
+margin: 235px 0 0 -355px;
+}
+.im-1{
+	width: 170px;
+height: 80px;
+}
+.im-2{
+	width: 175px;
+height: 150px;
+}
+.im-3{
+	width: 160px;
+height: 150px;
+}
+.im-4{
+	width: 160px;
+height: 80px;
+}
+.box-1{
+	margin: -275px -30px 0 -120px;
+}
+.box-2{
+	margin: -275px 0 0 15px;
+}
+.end{
+	width: 415px;
+	height: 600px;
+	margin-top: 25px;
+}
+.get{
+	padding: 25px 0 0 80px;
+	font-size: 25px;
+	
+}
+.code-2{
+	margin:0 0 0  50px;
+}
+.code-3{
+	margin: -55px 0 0 -75px;
+}
+
+.Drib{
+	font-size: 14px;
+	padding-left: 20px;
+}
+.Beh{
+	font-size: 14px;
+	padding-left: 20px;
+}
+.Cod{
+	font-size: 14px;
+	padding-left: 20px;
+}
+.Git{
+	font-size: 14px;
+	padding-left: 20px;
+}
+.Med{
+	font-size: 14px;
+	padding-left: 20px;
+}
+
+.Lin{
+	font-size: 14px;
+	padding:160px 0 0 0px;
+}
+.Fac{
+	font-size: 14px;
+	padding: 15px 0 0  0;
+}
+.Instagram{
+	padding: 15px 0 0 0;
+	font-size: 14px;
+}
+.Twitter{
+	padding: 15px 0 0 0;
+	font-size: 14px;
+}
+.end-1{
+	margin:  360px 0 0 -180px;
+}
+.end-2{
+	font-size: 14px;
+	padding: 0 0 0 0;}
+.end-3{
+	font-size: 14px;
+	padding: 0 0 0 0;
+}}
